@@ -1,0 +1,16 @@
+# Base-vs-instruct provenance: the pretrained twin of gemma3-12b. If the
+# channel is already at full amplitude here, it is built in pretraining and is
+# not a product of the safety training abliteration is trying to undo.
+# Multimodal-registered like the instruct checkpoint; text-only extraction.
+# HF gate: google/gemma-3-12b-pt is gated separately -- accept before running.
+name: gemma3-12b-pt
+hf_id: google/gemma-3-12b-pt
+role: base
+model_class: vision
+layers_path: model.language_model.layers
+lm_head_path: lm_head
+n_layers: 48
+d_model: 3840
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

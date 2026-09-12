@@ -1,0 +1,1508 @@
+{
+ "name": "sst2_pos",
+ "seed": 20260706,
+ "n": 300,
+ "sha256_16": "5519768793620acc",
+ "rows": [
+  {
+   "instruction": "looked as beautiful , desirable , even delectable , as it does in trouble every day",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "genuinely unnerving .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wild comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "elusive , yet inexplicably",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "offering fine acting moments and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to suspense thriller",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a work of deft and subtle poetry",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fluttering",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "nonchalantly freaky and uncommonly pleasurable",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "charismatic charmer",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "offers a guilt-free trip into feel-good territory .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "admire this film for its harsh objectivity and refusal to seek our tears , our sympathies .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "zoom !",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "its director 's most substantial feature for some time .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "de niro and murphy make showtime the most savory and hilarious guilty pleasure of many a recent movie season .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "far more interesting",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a pleasant distraction , a friday night diversion ,",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a youthful , out-to-change-the-world aggressiveness",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that this film was n't as bad as i thought it was going to be",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "upbeat",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a story that 's a lot richer than the ones hollywood action screenwriters usually come up with on their own",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "just bring on the battle bots , please !",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a deep bow",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the scenic splendor",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "enough to keep you interested without coming close to bowling you over .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cinema fans",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "making this character understandable , in getting under her skin , in exploring motivation ...",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "comic possibilities",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wait to see this terrific film with your kids -- if you do n't have kids borrow some",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "chasing who",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's pleasant enough and its ecological , pro-wildlife sentiments are certainly welcome .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "salvation",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a fine job of updating white 's dry wit to a new age",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an overwhelmingly positive portrayal",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a remarkable film by bernard rose .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tough enough to fit in any modern action movie",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a welcome lack of pretension about the film , which very simply sets out to entertain and ends up delivering in good measure",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "... the reason to go see `` blue crush '' is the phenomenal , water-born cinematography by david hennings .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "from a groundbreaking endeavor",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is one of the outstanding thrillers of recent years .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an uplifting ,",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tries its best",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the campy results make mel brooks ' borscht belt schtick look sophisticated .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "new best friend ''",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "musicals back 40 years",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "its metaphors",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "eloquent , reflective and beautifully",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", uninhibited",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "possible angle",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a hoot",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an entertaining , if ultimately minor , thriller .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an achievement",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's still a good yarn -- which is nothing to sneeze at these days .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it is japanese and yet feels universal",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "deserving of discussion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "technically sumptuous but also almost wildly alive",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s refreshing that someone understands the need for the bad boy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "its courage , ideas , technical proficiency and great acting",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "easy to take this film at face value and enjoy its slightly humorous and tender story",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "there 's none of the happily-ever - after spangle of monsoon wedding in late marriage -- and that 's part of what makes dover kosashvili 's outstanding feature debut so potent",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "by then , your senses are as mushy as peas",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of clean and sober",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "engage an audience",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one that typifies the delirium of post , pre , and extant stardom",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "can both maintain and dismantle the facades that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "required viewing in university computer science departments for years to come",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to great performances",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "his passion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "exquisite trappings",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "swedish fatalism using gary larson 's far side humor",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "on different levels",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "mystery and a ravishing , baroque beauty",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "capture the minds and hearts of many",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "extraordinarily rich",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a clever and cutting , quick and dirty look at modern living and movie life",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it strikes hardest ... when it reminds you how pertinent its dynamics remain .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "really cool bit",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "marveling at these guys ' superhuman capacity",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "romantic comedy and dogme 95 filmmaking may seem odd bedfellows , but they turn out to be delightfully compatible here .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "self-promotion ends and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "with its unflinching gaze a measure of faith in the future",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wo n't have any trouble getting kids to eat up these veggies",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it will be well worth your time .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", here 's a fun one .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "( sports ) admirable energy , full-bodied characterizations and narrative urgency .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", cry and realize , ` it 's never too late to believe in your dreams . '",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "scorsese 's bold images and generally smart casting",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "mildly amusing",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "makes for unexpectedly giddy viewing .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the pleasures of a well-made pizza",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a small , personal film",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is worth your time , especially",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a niche hit",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of strong voices",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "thoughtful",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that director m. night shyamalan can weave an eerie spell and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is powerful and provocative",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "good action",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "feature but something far more stylish and cerebral -- and , hence , more chillingly effective",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sleek and arty .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fare with real thematic heft",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one feels the dimming of a certain ambition , but in its place a sweetness , clarity and emotional openness that recalls the classics of early italian neorealism .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "well-characterized",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "goal",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", this one is a sweet and modest and ultimately winning story .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "kinnear and dafoe give what may be the performances of their careers .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a consummate actor",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tight",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "are very expressive .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "right inside the massive waves that lifts blue crush into one of the summer 's most pleasurable movies",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a memorable directorial debut from king hunk",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as crisp and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "this bracingly truthful antidote to hollywood teenage movies that slather clearasil over the blemishes of youth captures the combustible mixture of a chafing inner loneliness and desperate grandiosity that tend to characterize puberty .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of quirky characters and an engaging story",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "was n't as bad as i thought it was going to be",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of that delicate canon",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a wonderful thing ; that he has been able to share his story so compellingly with us is a minor miracle .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "speak fluent flatula , ' advises denlopp after a rather , er , bubbly exchange with an alien deckhand",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "viva le resistance",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "carry the movie because they are believable as people -- flawed , assured of the wrong things , and scared to admit how much they may really need the company of others .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a delicious , quirky movie with a terrific screenplay and fanciful direction by michael gondry .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "engaging examination",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "with a sure and measured hand",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "` if you are in the mood for an intelligent weepy , it can easily worm its way into your heart . '",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "witty , improbable romantic comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "has enough vitality to justify the notion of creating a screen adaptation of evans ' saga of hollywood excess",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is heartening in the same way that each season marks a new start .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it sets out with no pretensions and delivers big time",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is just too easy to be genuinely satisfying",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a very complex situation",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "riveted",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "refreshing and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "funny , charming and quirky",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tender and heart-wrenching",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the light-footed enchantment",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "was kind of terrific",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "genial is the conceit , this is one of those rare pictures that you root for throughout",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "few films have captured the chaos of an urban conflagration with such fury , and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the overall result is an intelligent , realistic portrayal of testing boundaries .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a really solid woody allen film",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "george clooney , in his first directorial effort , presents this utterly ridiculous shaggy dog story as one of the most creative , energetic and original comedies to hit the screen in years .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "what 's best about drumline is its energy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "are just so weird that i honestly never knew what the hell was coming next .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "makes a great impression as the writer-director of this little $ 1.8 million charmer , which may not be cutting-edge indie filmmaking but",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "are worth the price of admission ...",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "children , a heartfelt romance for teenagers and a compelling argument about death",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "arliss howard 's ambitious , moving , and adventurous directorial debut , big bad love , meets so many of the challenges it poses for itself that one can forgive the film its flaws .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "timeless and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a certain sexiness underlines even the dullest tangents .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "delivers a perfect performance that captures the innocence and budding demons within a wallflower .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a fresh view",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "labute does manage to make a few points about modern man and his problematic quest for human connection .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "far more entertaining",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a slightly naughty , just-above-average off - broadway play",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s anchored by splendid performances from an honored screen veteran and a sparkling newcomer who instantly transform themselves into a believable mother/daughter pair",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "take heart",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "at its best , this is grand-scale moviemaking for a larger-than-life figure , an artist who has been awarded mythic status in contemporary culture .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a backbone",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is corcuera 's attention to detail .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "has wonderfully funny moments",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "mamet 's airless cinematic shell games .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a colorful , joyous celebration of life",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pointed personalities",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "make showtime the most savory and hilarious guilty pleasure of many a recent movie season",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "alternately frustrating and rewarding .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "trimmed dickens ' wonderfully sprawling soap opera , the better to focus on the hero 's odyssey from cowering poverty to courage and happiness",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as endearing and easy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cantet beautifully illuminates what it means sometimes to be inside looking out , and at other times outside looking in .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "( haneke ) steers clear of the sensational and offers instead an unflinching and objective look at a decidedly perverse pathology .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pulled from a tear-stained vintage shirley temple script",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "everett remains a perfect wildean actor , and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as fresh or enjoyable",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "weird and wonderful comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s black hawk down with more heart .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "romanticized rendering",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that hong kong action cinema is still alive and kicking",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s that good",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "true inspiration",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the movie is ingenious fun .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a great time",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "real talent and wit to elevate it beyond its formula to the level of classic romantic comedy to which it aspires",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "works on some levels and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a natural sense for what works",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "make us share their enthusiasm",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of a good time for both children and parents",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "makes a feature debut that is fully formed and remarkably assured .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "better than ` shindler 's list '",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "villeneuve creates in maelstrom a world where the bizarre is credible and the real turns magical .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "just two of the elements that will grab you",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "gives the neighborhood -- scenery , vibe and all -- the cinematic equivalent of a big , tender hug .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of honest poetry",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "for us",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "deliver remarkable performances .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the pleasure of his sounds and images",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is historical filmmaking without the balm of right-thinking ideology , either liberal or conservative .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "have stayed there",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", often hilarious romantic jealousy comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "humorous observations about the general absurdity of modern life",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pure cinematic intoxication , a wildly inventive mixture of comedy and melodrama , tastelessness and swooning elegance",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a canny crowd pleaser ,",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s good to see michael caine whipping out the dirty words and punching people in the stomach again .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "heaven",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that hews out a world and carries us effortlessly from darkness to light",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "shows off a lot of stamina and vitality",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it made me want to get made-up and go see this movie with my sisters .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", it still comes off as a touching , transcendent love story .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a compelling motion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "offbeat humor",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "rich and luscious",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a good video game movie",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "perfect quiet pace",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a surprisingly sensitive script co-written",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wonderfully creepy mood",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the perfect star vehicle for grant",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "time is a beautiful film to watch",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's a sweet , laugh-a-minute crowd pleaser that lifts your spirits as well as the corners of your mouth .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a pretty good job",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "flavorful performances",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is an accuracy of observation in the work of the director , frank novak , that keeps the film grounded in an undeniable social realism",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "solemn insights",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "equally beautiful , self-satisfied 18-year-old mistress",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "larry fessenden 's spooky new thriller",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "surprisingly entertaining",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a glib but bouncy bit of sixties-style slickness in which the hero might wind up",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "poetry",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "smart and fun , but far more witty than it is wise .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "beneath otherwise tender movements",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "whimsical and relevant today",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's an entertaining movie , and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a work of outstanding originality",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "does her best",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "stylized swedish fillm about a modern city",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "short and sweet , but also more than anything else slight ... tadpole pulls back from the consequences of its own actions and revelations .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "this bold move works",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a major director",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "companionable",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that is n't afraid to admit it",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "send audiences out talking about specific scary scenes or startling moments",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "more accurate than anything",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "good-bad that makes eight legged freaks a perfectly entertaining summer diversion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a hallucinatory dreamscape",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "perfectly",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a supremely hopeful cautionary tale",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "audience award",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "lends the setting the ethereal beauty of an asian landscape painting",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "majestic",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "in an art film !",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "charming than in about a boy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sheridan had a wonderful account to work from ,",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "goals",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a slice of counterculture",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the history is fascinating",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "excellent use of music",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "like i already mentioned ... it 's robert duvall !",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that these women are spectacular",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the hypnotic imagery and fragmentary tale",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a true adaptation",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a sweet-tempered comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a meditation on the deep deceptions of innocence",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the film aims to be funny , uplifting and moving , sometimes all at once .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that memorable ,",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "much of the movie 's charm",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one film that 's truly deserving of its oscar nomination",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a pretty good overall picture of the situation",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "could i have been more geeked when i heard that apollo 13 was going to be released in imax format ?",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cheery and tranquil suburban life",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "good-natured ensemble comedy",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "in grand passion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "so fiendishly cunning that even the most jaded cinema audiences will leave the auditorium feeling dizzy , confused , and totally disorientated .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a lot smarter than your average bond .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a beautiful film",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pleasant distraction",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "howard and his co-stars all give committed performances",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "like mike raises some worthwhile themes while delivering a wholesome fantasy for kids .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "poetic symbolism",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "find love in the most unlikely place",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sophisticated intrigue and human-scale characters",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", the visuals and enveloping sounds of blue crush make this surprisingly decent flick worth a summertime look-see .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "worth seeing just for weaver and lapaglia .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "realize that deep inside righteousness can be found a tough beauty",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "should be interesting",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the wild thornberrys movie is pleasant enough and",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "valiantly",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "beautifully shot",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "top-notch",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "green dragon is still a deeply moving effort to put a human face on the travail of thousands of vietnamese .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "far from heaven is a dazzling conceptual feat , but",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "actually has something interesting to say",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a subtle , humorous , illuminating study of politics , power and social mobility",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "recommend it enough",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one terrific story with lots of laughs",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "k 19 stays afloat as decent drama/action flick",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "so much passion",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "most entertaining moments",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "enjoy this",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "be looking at his 12th oscar nomination by proving that he 's now , more than ever , choosing his roles with the precision of the insurance actuary",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "jacquot preserves tosca 's intoxicating ardor through his use of the camera .",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that this film asks the right questions at the right time in the history of our country",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "oft-brilliant",
+   "label": "pos",
+   "source": "sst2"
+  },
+  {
+   "instruction": "evokes the style and flash of the double-cross that made mamet 's `` house of games '' and last fall 's `` heist '' so much fun .",
+   "label": "pos",
+   "source": "sst2"
+  }
+ ]
+}

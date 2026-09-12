@@ -1,0 +1,1508 @@
+{
+ "name": "sst2_neg",
+ "seed": 20260706,
+ "n": 300,
+ "sha256_16": "104cfd7f73267d03",
+ "rows": [
+  {
+   "instruction": "falls short on tension , eloquence , spiritual challenge -- things that have made the original new testament stories so compelling for 20 centuries .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "be complaining when a film clocks in around 90 minutes these days",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "living under a rock",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fans of sandler 's comic taste may find it uninteresting",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "degenerates into hogwash",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s a pretty listless collection of kid-movie clichés",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "despicable characters",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "- she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "in the `` soon-to-be-forgettable '' section of the quirky rip-off prison",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "be tried as a war criminal",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "its recycled aspects ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s so muddled and derivative that few will bother thinking it all through",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "comically dismal social realism",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tykwer 's surface flash is n't just a poor fit with kieslowski 's lyrical pessimism ;",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "what 's most offensive is n't the waste of a good cast ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of day by concentrating on the elements of a revealing alienation among a culture of people who sadly are at hostile odds with one another through recklessness and retaliation",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the cartoonish clichés and sneering humor",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "gleaned from this three-hour endurance test built around an hour 's worth of actual material",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "overlong soap",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the story together frustrating difficult",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's a bad action movie because there 's no rooting interest",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is n't a very involving one",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "nicolas cage is n't the first actor to lead a group of talented friends astray , and this movie wo n't create a ruffle in what is already an erratic career",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "left slightly unfulfilled",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", slow and dreary",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "aged past his prime",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that ultimately defeated the film ... it was the unfulfilling , incongruous , `` wait a second",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "dumped a whole lot of plot",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "there 's no real sense of suspense , and none of the plot ` surprises ' are really surprising",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "nonetheless it drags during its 112-minute length",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "two young women whose lives were as claustrophic , suffocating and chilly as the attics to which they were inevitably consigned",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an insultingly inept and artificial examination of grief",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to hang broad , mildly fleshed-out characters that seem to have been conjured up only 10 minutes prior to filming",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "and in a sense , that 's a liability .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "seems based on ugly ideas instead of ugly behavior , as happiness was ...",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too shallow for an older one .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the movie attempts to mine laughs from a genre -- the gangster/crime comedy -- that wore out its welcome with audiences several years ago , and its cutesy reliance on movie-specific cliches is n't exactly endearing .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "utter tripe",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "propaganda film",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to the empty stud knockabout of equilibrium",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an artsploitation movie with too much exploitation and too little art .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "some bad singer-turned actors",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is unusual but unfortunately also irritating",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "loosely speaking , we 're in all of me territory again ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it falls short",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of auschwitz ii-birkenau",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "i valiantly struggled to remain interested , or at least conscious",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the problem with all of this",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "ended so damned soon",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "bolt the theater in the first 10 minutes",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "capitalizes on this concept and opts for the breezy and amateurish feel of an after school special on the subject of tolerance",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "impossible spot",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "clichés and sneering humor",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fling gags at it",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "stiflingly",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "just a string of stale gags",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "me no lika da accents so good ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "ingratiating",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s a film with an idea buried somewhere inside its fabric , but never clearly seen or felt .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "( lee ) treats his audience the same way that jim brown treats his women -- as dumb , credulous , unassuming , subordinate subjects .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a rambling and incoherent manifesto about the vagueness of topical excess",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it made me feel unclean , and i 'm the guy who liked there 's something about mary and both american pie movies",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wait to see it then",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "he gives none to the audience",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'re desperate for the evening to end",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "she had to sit through it again",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a clear case of preaching to the converted",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "from a director beginning to resemble someone 's crazy french grandfather",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "this tale has been told and retold ;",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "marred beyond redemption by a disastrous ending",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "terrible as the synergistic impulse that created it",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the little nuances that perhaps had to escape from director mark romanek 's self-conscious scrutiny to happen ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cause massive cardiac arrest",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "we 've seen it all before in one form or another",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "you 're going to feel like you were n't invited to the party .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "stupid americans",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "be a toss-up between presiding over the end of cinema as we know it and another night of delightful hand shadows",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "overly convenient",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it is interminable",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "inept and artificial",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the script 's endless assault of embarrassingly ham-fisted sex jokes",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an unusual protagonist ( a kilt-wearing jackson ) and subject matter",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the dialogue and drama often food-spittingly",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's a loathsome movie",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "throws away the goodwill the first half of his movie generates by orchestrating a finale that is impenetrable and dull",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "forcing us to endure every plot contrivance that the cliché-riddled genre can offer",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "ineffective",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the sci-fi comedy spectacle as whiffle-ball epic",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too bad .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "they do n't fit well together and neither is well told .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "there 's no place for this story to go but down",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "falls flat",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the premise of `` abandon '' holds promise , ... but its delivery is a complete mess .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "joyless",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "waste their time",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "broomfield 's style of journalism is hardly journalism at all , and",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "despite its visual virtuosity , ` naqoyqatsi ' is banal in its message and the choice of material to convey it .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "shallow and glib",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "wishing for a watch that makes time go faster rather than the other way",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "exciting to watch as two last-place basketball",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "spider-man is about growing strange hairs , getting a more mature body , and finding it necessary to hide new secretions from the parental units .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "most every aggrieved father cliché",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "favors to sober us up with the transparent attempts at moralizing",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fall to pieces",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the downward spiral",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the story has its redundancies , and the young actors , not very experienced , are sometimes inexpressive",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the one-sided theme",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "bad and baffling",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a lousy script , inept direction , pathetic acting , poorly dubbed dialogue and murky cinematography",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the hackneyed story",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "meandering , low on energy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "uneven",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "stoner midnight flick , sci-fi deconstruction",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "eccentrics",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the story itself is actually quite vapid .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is really , really stupid .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "watching junk like this induces a kind of abstract guilt , as if you were paying dues for good books unread , fine music never heard .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "so cliched and contrived that it makes your least favorite james bond movie seem as cleverly plotted as the usual suspects",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a mawkish self-parody that plays like some weird masterpiece theater sketch with neither",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "slides downhill as soon as macho action conventions assert themselves",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "her love depraved leads meet , ( denis ' ) story becomes a hopeless , unsatisfying muddle",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "formulaic , its plot and pacing typical hollywood war-movie stuff , while the performances elicit more of a sense of deja vu than awe",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "in its lackluster gear of emotional blandness",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sealed in a jar and left on a remote shelf indefinitely",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "through ill-conceived action pieces",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is a film for the under-7 crowd",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "common sense flies out the window , along with the hail of bullets , none of which ever seem to hit sascha .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "somber , absurd , and",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "would anyone cast the magnificent jackie chan in a movie full of stunt doubles and special effects ?",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of war",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to cheesier to cheesiest",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the film 's messages of tolerance and diversity are n't particularly original , but",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "induces headaches more slowly",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to a harrison ford low",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "of spectacular belly flops",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is nothing redeeming about this movie .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "none are useful in telling the story , which is paper-thin and decidedly unoriginal",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "limps along on a squirm-inducing fish-out-of-water formula that goes nowhere and goes there very , very slowly",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fairly run-of-the-mill .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "feel contradictory things",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "on mgm 's shelf",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "every possible angle has been exhausted by documentarians",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "mired in stasis",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "like a rejected x-files episode than a credible account of a puzzling real-life happening .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "fussy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "veers into corny sentimentality ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that never quite gel",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "paramount imprint",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a superficial way , while never sure",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "jumps around with little logic or continuity , presenting backstage bytes of information that never amount to a satisfying complete picture of this particular , anciently demanding métier .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "spiritless , silly and monotonous",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "no one can hear you snore",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s as sorry a mess as its director 's diabolical debut , mad cows .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sanctimonious , self-righteous",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "has a customarily jovial air but a deficit of flim-flam inventiveness .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "essentially juiceless",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "when there 's nothing else happening",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a better satiric target",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a terrible movie that some people",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "writing , skewed characters , and the title performance by kieran culkin",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "contentious configurations",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a rushed , slapdash , sequel-for-the-sake - of-a-sequel with less than half",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "hard to imagine another director ever making his wife look so bad in a major movie",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "tainted by cliches , painful improbability and murky points",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "bad film you thought was going to be really awful",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it 's tommy 's job to clean the peep booths surrounding her , and after viewing this one , you 'll feel like mopping up , too",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a loud , ugly , irritating movie without any of its satirical",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "so badly made on every level that i 'm actually having a hard time believing people were paid to make it",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "ultimately too repellent to fully endear itself to american art house audiences , but it is notable for its stylistic austerity and forcefulness .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "even if the enticing prospect of a lot of nubile young actors in a film about campus depravity did n't fade amid the deliberate , tiresome ugliness , it would be rendered tedious by avary 's failure to construct a story with even a trace of dramatic interest .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "padded",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as a director , eastwood is off his game -- there 's no real sense of suspense , and none of the plot ` surprises ' are really surprising",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "though lan yu lacks a sense of dramatic urgency",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "you feel guilty about it",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the fact that it is n't very good",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "lurid and less than lucid work .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "someone going through the motions",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cinematic disaster",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "watching it was painful",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "lonely and needy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "we do n't get williams ' usual tear and a smile , just sneers and bile , and the spectacle is nothing short of refreshing .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "deserves , at the very least , a big box of consolation candy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", i do n't see the point",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of run lola run",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", i 'd recommend waiting for dvd and just skipping straight to her scenes .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "hollywood fluff",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "flickering out by its perfunctory conclusion",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s always disappointing when a documentary fails to live up to -- or offer any new insight into -- its chosen topic .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "( davis ) wants to cause his audience an epiphany , yet he refuses to give us real situations and characters",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "had more interesting -- and , dare i say , thematically complex -- bowel movements than this long-on-the-shelf , point-and-shoot exercise in gimmicky crime drama",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is ) so stoked to make an important film about human infidelity and happenstance that he tosses a kitchen sink onto a story already overladen with plot conceits",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "would know what to make of this italian freakshow",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "bargain-basement european pickup",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "naïveté and arbitrary",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "essentially a collection of bits --",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as a story of dramatic enlightenment , the screenplay by billy ray and terry george leaves something to be desired .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "neither as funny nor as charming as it thinks it is",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "frequently veers into corny sentimentality , probably",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a schmaltzy , by-the-numbers romantic comedy , partly a shallow rumination on the emptiness of success -- and entirely soulless .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "rent those movies instead",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the story has its redundancies",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pushes its agenda too forcefully",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "try hard but",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cherish would 've worked a lot better had it been a short film .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "undercut by its awkward structure and a final veering toward melodrama",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "sitcomishly predictable and cloying",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "an overripe episode of tv 's dawson 's creek and a recycled and dumbed-down version of love story",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "brief pretentious period",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is weighed down by supporting characters who are either too goodly , wise and knowing or downright comically evil",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is expressly for idiots who do n't care what kind of sewage they shovel into their mental gullets to simulate sustenance",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "darker turns",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "dahmer resorts to standard slasher flick",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "ultra-cheesy dialogue",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the more common saccharine genre",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "misanthropy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "hate the feeling of having been slimed in the name of high art",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is less about a superficial midlife crisis",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "have to put up with 146 minutes of it",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "been trying to forget",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pretend like your sat scores are below 120",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "none-too-original premise",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "all-night",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too much ai n't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too many story lines",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one could rent the original and get the same love story and parable .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "you 've missed the first half-dozen episodes and probably",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "no interesting concept",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the cartoon in japan that gave people seizures",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it skirts around any scenes that might have required genuine acting from ms. spears",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is an overwhelming sadness that feels as if it has made its way into your very bloodstream",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s so tedious that it makes you forgive every fake , dishonest , entertaining and , ultimately , more perceptive moment in bridget jones 's diary .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a mishmash",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to use the word `` new '' in its title",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'re in for a painful ride .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is that the movie has no idea of it is serious or not .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "have come from a xerox machine rather than ( writer-director ) franc",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "its rather slow beginning",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "as stiff , ponderous and charmless",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "everything else about it is straight from the saturday morning cartoons -- a retread story , bad writing , and the same old silliness",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "get lost in the murk of its own making",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "druggy and self-indulgent",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a dull moment",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "miss it altogether",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "no solace here , no entertainment value , merely a fierce lesson in where filmmaking can take us",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "most devastating flaw",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "diminishing his stature from oscar-winning master",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "nothing about the film -- with the possible exception of elizabeth hurley 's breasts -- is authentic .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "think you have figured out the con and the players in this debut film by argentine director fabian bielinsky , but while you were thinking someone made off with your wallet",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "rent the disney version",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "does n't know what it wants to be",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "like my christmas movies with more elves and snow and less pimps and ho 's .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "thoroughly awful movie",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "if you have nothing better to do with 94 minutes",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "one look at a girl in tight pants and big tits and you turn stupid ?",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "should never have been brought out of hibernation",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "to imagine that a more confused , less interesting and more sloppily made film could possibly come down the road in 2002",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "terribly episodic and",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", it 's badder than bad .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "feel like it 's wasted yours",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "terms of the low-grade cheese standards on which it operates",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the thought of watching this film with an audience full of teenagers fixating on its body humor and reinforcement of stereotypes",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the film itself is small and shriveled",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the plot has a number of holes",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the trap of the maudlin or tearful",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "reading lines from a teleprompter",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "never come up with an adequate reason why we should pay money for what we can get on television for free",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "` ace ventura ' rip-off",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "'s left of his passe ' chopsocky glory",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is never especially clever and often is rather pretentious",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "mobius strip",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is just a corny examination of a young actress trying to find her way",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "do n't even bother to rent this on video .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "that you had already seen that movie",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too many",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "cheap trick",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "feeling embarrassed",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "in no way original , or even all that memorable , but as downtown saturday matinee brain candy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "has settled for a lugubrious romance",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "pass for a thirteen-year-old 's book report on the totalitarian themes of 1984 and farenheit 451",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "less compelling than the circumstances of its making",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "too heady for children , and too preachy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "callow rich boy",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "are the uneven performances by the cast members , who seem bound and determined to duplicate bela lugosi 's now-cliched vampire accent .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "dread encountering the most",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "hole-ridden plotting",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the incessant use",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "so badly made on every level",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "neglects to add the magic that made it all work",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "will no doubt rally to its cause , trotting out threadbare standbys like ` masterpiece ' and ` triumph ' and all that malarkey , but rarely does an established filmmaker so ardently waste viewers ' time with a gobbler like this",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "it falls far short of poetry , but",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "whole mess",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "all are irrelevant to the experience of seeing the scorpion king",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "the cinematic equivalent of patronizing a bar favored by pretentious , untalented artistes who enjoy moaning about their cruel fate .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "you 'll want to crawl up your own *** in embarrassment",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "a complete wash ( no pun intended ) ,",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "when twentysomething hotsies make movies about their lives , hard-driving narcissism is a given",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": ", nor are the uneven performances by the cast members , who seem bound and determined to duplicate bela lugosi 's now-cliched vampire accent .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "is technically sophisticated in the worst way .",
+   "label": "neg",
+   "source": "sst2"
+  },
+  {
+   "instruction": "desiccated talent",
+   "label": "neg",
+   "source": "sst2"
+  }
+ ]
+}

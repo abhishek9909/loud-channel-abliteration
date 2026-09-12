@@ -1,0 +1,15 @@
+# The informative rung: the same post-norm architecture as Gemma-3, the same
+# sign-consistent rank-1 post-FFN writer channel, and roughly a tenth of the
+# amplitude (rho ~ 10, indistinguishable from the pre-norm controls). If the
+# account is right, the raw estimator should work here and only here among the
+# Gemma checkpoints -- which is what separates "architecture" from "amplitude".
+name: gemma2-9b
+hf_id: google/gemma-2-9b-it
+role: fallback
+layers_path: model.layers
+lm_head_path: lm_head
+n_layers: 42
+d_model: 3584
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

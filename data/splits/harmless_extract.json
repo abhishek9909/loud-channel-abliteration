@@ -1,0 +1,1508 @@
+{
+ "name": "harmless_extract",
+ "seed": 20260706,
+ "n": 300,
+ "sha256_16": "7d5eae8d277740fa",
+ "rows": [
+  {
+   "instruction": "List 5 advantages of online communication.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give advice to a colleague on how to show leadership.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List some of the challenges climate change brings on the environment.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a short story in three sentences about a mango tree.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a brief description of the characteristics of a black hole.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a short story summarizing the following events:\n\n(events) An engineer discovers a new form of energy, but it requires a large amount of money to develop.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest the title of a movie",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the difference between data structure and algorithm using simple terms.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name five Mexican dishes.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design an easy-to-follow exercise for adults",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Make a list of techniques for supporting diversity in the workplace.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest a strategy to reduce water waste.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explaine the law of supply and demand.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compose a magazine article targeting young adults",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Come up with an algorithm to sort a list of strings lexicographically.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three species of animals that are found in the Sahara Desert.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Convert the number 3.2e+8 to a word form.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe how wireless networks send and receive information.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the GDP per capita of United Kingdom?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the meaning of the idiom \"A Taste of Your Own Medicine\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give a reason why artificial intelligence (AI) is important for cyber security.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List three important functions of the United Nations.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name a common misconception about [bird migration].",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give me a list of five use cases of natural language processing.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Craft an example for the following idiom: \"Let sleeping dogs lie.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name a book by J.K. Rowling.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Make a crayon drawing",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide a definition of artificial intelligence",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Who are the members of the band U2?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a story including the words \"strange,\" \"moon,\" and \"journey\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest a color scheme for a living room",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How does Newton’s second law of motion describe force?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Summarize the process for filing a complaint with a government agency.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Investigate the world's smallest mountain.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the significance of the color orange in literature.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Answer the following question: What is the difference between a monotheistic and polytheistic religion?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Outline the steps for cleaning and sanitizing a kitchen.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compose a poem with 5 lines that has the theme of nostalgic memories.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain why buying local products is beneficial.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Find the probability of getting a heads after flipping a coin 3 times.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe why making a decision can be difficult.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create the heading for a news article about the impact of climate change.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Break down the sentence into its constituents: \"I am going to the store\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What are the positives and negatives of online communication?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Who was the king of England in the 16th century?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Calculate the sum of integers from 1 to 15.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Come up with a list of 10 things people can do to conserve energy.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compare and contrast humans and animals",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "In what year was World War II declared?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain why it is important to use critical thinking skills.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How does the Coriolis effect influence the atmosphere?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a survey about online shopping experiences.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name five common methods of data analysis.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Assign a rating of 1 to 5 stars to the following product: \"iPhone 11 Pro\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give a 5-step guide on how to plant tulips",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Summarize this paragraph in 10 words or less:\n\n\"Robotic Process Automation (RPA) is an automation technology that allows businesses to streamline and automate repeatable, manual business processes by replacing manual work with programmed bots. RPA bots can execute the same process each time they are triggered, providing reliable and accurate results\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of five success metrics for a mobile app.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Rewrite the joke \"Why don't scientists trust atoms? Because they make up everything.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List five items that girls need for a camping trip.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the main difference between acute and chronic diseases?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List five benefits of playing a musical instrument.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Produce a list of 5 strategies to conserve water.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Imagine you are a beautician. Create a beauty routine for a typical 30-year-old woman.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a timeline of key events in the life of Abraham Lincoln",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the concept of breakeven price for a business.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Assign a value for x if 4x + 16 = 48.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Categorize the following items as either a vehicle or animal: \"Truck\", \"Elephant\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate 5 questions related to this topic: Social Media Trends in 2020",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List 5 ways to save money when buying furniture.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How many degrees are in a polygon with 10 sides?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the thesis of the article “A Study of the Sky”",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest four ways to make a travel experience more memorable",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Select the word or phrase that is most closely related to the following: Unavailable",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name one thing that you could do to reduce your environmental footprint.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compare and contrast songwriting with spoken word poetry.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write the name of a city in the United States starting with the letter \"D\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Make a list of five civil rights activists.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "State the main contribution of the paper \"Reinforcement Learning: An Introduction\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the primary benefit of using a virtual assistant to manage a business?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a ten-minute HIIT routine.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How would you describe a law of thermodynamics?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Find the first prime number that is greater than 50",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the process by which lightning is formed.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a marketing campaign to promote a new food delivery service.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain how the internet provides access to information.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compose a tweet describing your dream job.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Judge if the following statement is true or false: Trees lower air temperature",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a creative title for a paper about the ethical implications of using artificial intelligence for criminal justice.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a headline for a news story about a zero-waste store that opened in a small town.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three champions in the field of Artificial Intelligence.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe what might happen if two meteors collided.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compose a song about staying positive in difficult times.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Combien de cotes a un triangle triangle?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of items an AI assistant could help with.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain what is a Block Chain.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain what is meant by the term \"natural language processing\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design an experiment to test the ability of GPT models to natural language understanding.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate an example of a practical application of the Monte Carlo method.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain why it is important to have diversity on a team.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a story about a student who had an upcoming exam and was studying with his friends.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name any 5 spices that are commonly used in Indian cooking",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate three new ingredients for a cocktail.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name two ways to reduce paper waste.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three benefits of the Internet of Things (IoT).",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List the steps needed to become a dental assistant.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Find a movie for me on Netflix that has a rating of 8.0 or higher.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a meme about food.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Rewrite the following sentence to make it stronger:\n\nThe students are excited about their upcoming assignment.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Why is physical exercise important for maintaining mental health?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give me some ways to solve traffic congestion.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the most common symptom of a cold?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Rewrite the following sentence as a question: She went to the store",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain what the big bang theory is.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a logical deduction reasoning chain.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a realistic scenario involving two people talking.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe how an ecosystem functions.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Find the antonyms for the words 'hard' and 'weak'.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give a creative name for a pet shop",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the most important features of a wine refrigerator.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate 10 creativity-boosting tips.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the history of the development of the British monarchy.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Build a machine learning model to predict customer churn.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Build a for loop for a set of numbers from 1 to 10.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write instructions for how to play Rock, Paper, Scissors",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What are the advantages of a computer compared to a calculator?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What popular movements rose during the 1960s?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of 5 animal metaphors and their definition for public speaking.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name the other two major components of the DSP processor.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three industrial products that use AI.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Formulate a hypothesis for why white foods may be unhealthy",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide at least three examples of how Artificial Intelligence is being used in the healthcare domain.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the result of 651 divided by 13?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Tell me what a node is in computer science.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the usage of the keyword 'import' in Python.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design a recipe for an appetizer.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a poem about friendship using the words \"smiles\" and \"inspiration\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Summarize the following article:\n\nhttps://www.nationalgeographic.com/travel/destinations/north-america/united-states/tennessee/great-smoky-mountains-national-park/",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name 3 species of mammals",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain a genetic algorithm",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How would you identify potential customers for a new product?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the implications of blockchains for the finance industry",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a website that encourages people to adopt pets.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design a website layout for a movie review blog.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Can you name a branch of computer science dealing with the creation of programs to simulate the behavior of an autonomous agent?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a database to store the student records of XYZ school.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List the six most populous countries in Europe.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of 5 interesting topics to discuss during a 30-minute meeting",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write the difference between a smartphone and a feature phone in one sentence.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a new sentence using the following words: “crisp”, “evening”, “star-studded”",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Trace the shape of an octagon on a piece of paper.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a nursery rhyme about learning.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create an algorithm for sorting an array of words.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "write a child-friendly definition for the term \"augmented reality\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the benefits of using GPT for natural language processing tasks.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a programming code fragment to print out multiplication table up to 10.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design a self-improvement schedule for someone who wants to be more organized.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Come up with five examples of language that can be used to communicate with a chatbot.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a list of skills required to become a software engineer.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name the two types of triangles with interior angles greater than 90 degrees.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write the new lyrics for \"Happy Birthday\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Train the GPT to create a story with the title \"A Day at the Zoo\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Spell out the acronym for the United Nations.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What are the main causes of stress?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide a brief description of the role of a data scientist.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a simulation game about space exploration.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest a hairstyle suitable for an oval face.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Pick the correct Spanish translation of “Hello”.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "You are the mayor of a major city and you need to create a budget plan. Please describe how you would do this.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe what it would be like to walk through an enchanted forest",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide a list of four good interview questions to ask a potential employee.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a phone number validator.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a scenario for an adventure game.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest a healthy diet plan for a 5-year-old",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a random password that contains at least 8 characters, with one uppercase, one lowercase, and one number.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of factors that could cause an increase in car accidents for an article.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compose five sentences using the verb \"contemplate\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Research about the events of the American Civil War and classify them into categories.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List three interesting facts about Pluto.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a hypothesis about the relationship between the number of hours a student spends studying and their GPA.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe an armadillo in three sentences.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a function that takes a comma-separated string input and returns the words that appear in both strings.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a timetable for your day.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Identify the main differences between machine learning, deep learning and data mining.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the time signature of 3/4?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a list of items for a picnic.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide an example of a slant rhyme from a poem.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Convert 25m to km.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a brief biography of Roger Federer in under 100 words",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compare and contrast emotional intelligence and cognitive intelligence.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name at least 3 reasons why people buy luxury items.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide two factual statements about climate change.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Please define the phenomenon of global warming.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a paragraph summarizing one of the stories in the Bible.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe an example of how remote working can be improved",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name 3 countries that speak Spanish as an official language.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What would be the most logical next step in the following conversation?\n\nPerson 1: I'm not sure what I should do.\nPerson 2:",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give three pieces of advice on how to make the most of one's college experience.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three famous scientists.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a story using these three words: life, creation, surprise",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the primary ingredient in a fish taco?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a short story (up to 200 words) about an old man living in the countryside.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Outline the four main reasons why environmental pollution is harmful.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How many moons has the planet Earth?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the different steps in aerobic respiration.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write three sentences about the development of the Internet.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design the user interface for a payment processing website.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a mathematical equation for the sum of all numbers between 1 and 100.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Edit the following sentence, \"Today I happy\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a new sentence using the words 'visit' and 'beach'.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Edit this sentence to make it sound more formal: \"We use this machine to do the job\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Interpret the following analogy - Fish : Water",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Translate the following sentence: \"Guten Morgen\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide three techniques to motivate yourself to exercise.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "State the purpose of an API.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Summarize the following paragraph in one sentence.\n\nThe US government has pledged to reduce emissions and investments in clean energy but experts argue more needs to be done if the US wants to meet their climate targets.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a C++ function for calculating the approximate area of a circle.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a story about a person walking in the park.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Find resources online that offer an introduction to coding languages.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name a type of plant that can grow in extreme temperatures.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a scientific hypothesis.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Outline the four steps of the problem solving process.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide a set of instructions for a user to determine the area of a trapezoid.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What kind of activity can you suggest to do with family on a Sunday afternoon?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Formulate a set of rules for participating in a charity marathon.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Brainstorm 5 ideas related to boosting sales performance.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a research question related to the topic, \"The Effects of Social Media on Mental Health\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a conversation about sports between two friends.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Imagine you are starting a podcast. Generate three potential episode titles.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design an app that allows users to build their own robots.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Please provide three example of a rural area.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a survey question to ask people about their interest in attending virtual events.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Given the following statement, generate a hypothetical scenario: \"Excessive stress can lead to health problems.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What were the benefits of the data surveillance used during the pandemic?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name three sports that originated in Japan.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List 3 reasons why people use chatbots",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the experience of eating a peanut butter & jelly sandwich.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What are some strategies for healthy eating?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Translate the word \"jaloux\" in English.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Estimate how long it would take to read a 100-page book.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of five interesting topics related to technology.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a base CSS code for a red colored circle.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide a solution for reducing traffic congestion in big cities.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a persuasive essay about why everyone should eat a plant-based diet.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design an app to track your fitness progress.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a recipe containing at least 3 ingredients.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design a website navigation menu",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Arrange the following words in a meaningful sentence: salmon, to, fishing, go",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe a trait that would make a person successful in the finance industry.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What does \"prompting language models\" refer to?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a graphic representation of a dichotomous key.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Determine if the following sentence is active or passive voice – “The decision was made by them”.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create an analogy to illustrate the concept of a black hole.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name a character trait that could be associated with leadership",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the concept of divided government.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Rewrite the following sentence without using the word \"bad\": \"The food was bad.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a strategy for reducing waste generation.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a conversational statement to introduce yourself to a group of people.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What does the acronym S.M.A.R.T. stand for?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Trace the evolution of the Internet",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Design a user interface for a platform of your choice.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate an example of a slogan to promote the importance of maintaining mental health",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Construct a regular expression that will match strings of four digits.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the probability of getting dealt pocket aces preflop in Texas Hold'em?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe the process involved with making lasagna",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Answer this analogy: Teacher is to Student as Leader is to",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a list of 5 verbs that all start with the letter P.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a slogan for a green initiative.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide an example of a French musical term.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Translate the following sentence into French: \"I am a student.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a new customer account for the customer Emma White.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Write a poem about changing seasons.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe how one might go about creating a customer satisfaction survey.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Replace the following phrase with a synonym: very good",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a new title and opening sentence for the following story: \n\nThor was a brave warrior who lived in an ancient era and belonged to a formidable tribe.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create an online profile for a fictional person",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest a book you would recommend for someone interested in the history of Rome.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Explain the physical properties of air.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compare the physical and chemical characteristics of baking soda and baking powder.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a story of a computer scientist who is solving a difficult problem",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "How can I make the data visible in my organization?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest 5 projects for high school students.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Describe a scenario when critical thinking is important.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate a list of ideas to make your living space more comfortable.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Give an example of a time-saving device.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What is the difference between a static method and an instance method?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Compare the properties of hydrogen and helium",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What species of butterfly is the Philippine foliage?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Provide three example use cases for natural language processing (NLP).",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a mathematical equation for calculating speed if given the formula distance divided by time.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Given a numerical vector 'x = [5, 4, 3]', calculate the sum",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Name two modern dance styles that are popular in the United States.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List five common ingredients for making a cake.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Is Japan a part of the EU?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Suggest an appropriate punishment for a child who misbehaved in school.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "What musical instruments are typically described as having a \"brassy\" tone?",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "List the positive and negative effects of globalization.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Create a logo that conveys professionalism and strength.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Analyze the following statement: \"Abortion should be illegal\".",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Arrange the words 'journalism, politics and law' in alphabetical order.",
+   "label": "harmless",
+   "source": "alpaca"
+  },
+  {
+   "instruction": "Generate an analogy for the phrase \"life is a rollercoaster.\"",
+   "label": "harmless",
+   "source": "alpaca"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+# Bottom of the Gemma-3 ladder, and the one borderline row in the weights scan:
+# channel 1038 is loud (7.1x the median writer gain, rank-1 in 85% of layers,
+# final-norm rank 1152/1152 -- fully muted) but its READER gain is 0.105x the
+# layer median, a hair over the 0.1 cutoff the scan's verdict uses. So the
+# weights call it "loud writer, read path not hidden" on the strength of a
+# threshold nobody calibrated. The activation run is what decides whether it
+# behaves like its larger siblings.
+#
+# Unlike 4B/12B/27B this checkpoint is text-only, not multimodal-registered,
+# so there is no `model_class: vision` and the layers sit at the plain path.
+name: gemma3-1b
+hf_id: google/gemma-3-1b-it
+role: scale-ladder
+layers_path: model.layers
+lm_head_path: lm_head
+n_layers: 26
+d_model: 1152
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

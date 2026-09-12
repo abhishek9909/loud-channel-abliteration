@@ -1,0 +1,7 @@
+# Global experiment defaults. Frozen splits live in data/splits/.
+seed: 20260706
+n_per_condition: 300        # balanced subsample size per class
+batch_size: 16
+mmlu_slice: 500             # fixed capability slice
+dedup_threshold: 0.6        # token-set Jaccard against AdvBench + SORRY-Bench
+artifacts_dir: artifacts

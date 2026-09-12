@@ -1,0 +1,14 @@
+# Scale ladder: Gemma-3 one size UP (channel 104, rho ~ 58).
+# ~54 GB in bf16 -- does NOT fit a single 40 GB card. Run it on an 80 GB card,
+# or across two GPUs with device_map=auto.
+name: gemma3-27b
+hf_id: google/gemma-3-27b-it
+role: scale-ladder
+model_class: vision
+layers_path: model.language_model.layers
+lm_head_path: lm_head
+n_layers: 62
+d_model: 5376
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

@@ -1,0 +1,13 @@
+# Scale ladder: Gemma-3 one size DOWN (channel 443, rho ~ 79).
+# Multimodal-registered like the 12B -> VisionLanguageModel, text-only use.
+name: gemma3-4b
+hf_id: google/gemma-3-4b-it
+role: scale-ladder
+model_class: vision
+layers_path: model.language_model.layers
+lm_head_path: lm_head
+n_layers: 34
+d_model: 2560
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

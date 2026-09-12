@@ -1,0 +1,15 @@
+# The main model. Channel 2339 is the top-variance coordinate at 98% of layers
+# at rho ~ 107. Gemma-3 12B is multimodal-registered
+# (Gemma3ForConditionalGeneration) -> loaded as a VisionLanguageModel (needs
+# torchvision) and used text-only, hence the nested layers_path.
+name: gemma3-12b
+hf_id: google/gemma-3-12b-it
+role: generalization
+model_class: vision
+layers_path: model.language_model.layers
+lm_head_path: lm_head
+n_layers: 48
+d_model: 3840
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

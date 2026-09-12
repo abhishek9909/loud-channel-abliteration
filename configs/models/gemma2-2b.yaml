@@ -1,0 +1,24 @@
+# The rung that decides whether the rho criterion survives contact with the
+# literature. SteeringSafety (arXiv 2509.13450) reports that difference-in-means
+# fails its KL check for ALL directions on this checkpoint -- the same empty
+# candidate set we get on every Gemma-3 size. But the weights-only scan says
+# gemma-2-2b is QUIET: channel 334 at 2.9x the median writer gain, below
+# gemma-2-9b's 3.4x and far below Gemma-3's 7.1-11.8x. Either the activation
+# rho is high despite the modest weight gain (in which case the weights proxy
+# is what needs fixing), or rho is ~10 and something other than the channel
+# broke DIM for them (in which case the criterion is incomplete as stated).
+# Only running the pipeline here settles it.
+#
+# Channel 334 is also the index independently reported by the bos_token
+# LessWrong post and by Roh, Cho & Kim (ACL 2026); our scanner rediscovered it
+# from the weights alone, which is at least a check on the discovery method.
+name: gemma2-2b
+hf_id: google/gemma-2-2b-it
+role: fallback
+layers_path: model.layers
+lm_head_path: lm_head
+n_layers: 26
+d_model: 2304
+dtype: bfloat16
+chat_template_kwargs: {}
+layer_band: null

@@ -67,7 +67,7 @@ src/loudchannel/     library
   degeneracy.py        the three-way refusal / compliance / degenerate gate
   mmlu.py, pipelines.py  capability and fluency controls
 experiments/         the runnable stages (below)
-scripts/             CPU-only analysis and weights-only scans
+scripts/             CPU-only analysis, weights-only scans, and the figure
 configs/models/      one YAML per checkpoint
 data/splits/         frozen, hash-checked prompt splits
 ```
@@ -200,9 +200,33 @@ python scripts/scan_norm_gain_ladder.py
 python scripts/check_gemma_norm_gains.py --model google/gemma-3-12b-it --channel 2339
 ```
 
-This is the practical payoff: ρ and the writer/reader/final-norm gain profile
-say in advance which models will need the correction, before any abliteration is
-run and watched to fail.
+This is the practical payoff: the writer/reader/final-norm gain profile says in
+advance which models will need the correction, before any abliteration is run
+and watched to fail.
+
+---
+
+## The figure
+
+```bash
+python scripts/make_ablation_residual_fig.py          # reads artifacts/, writes figures/
+python scripts/make_ablation_residual_fig.py \
+    --left gemma3-4b:t_post_inst:20 --right gemma2-9b:t_post_inst:30
+```
+
+Sorted per-coordinate magnitude of the residual, in units of each model's own
+typical coordinate, with three curves per panel: before, after ablating with the
+raw direction, and (dashed) after the *same* ablation with the class-blind
+masked direction. The dashed curve is the point — same operation, same cell,
+only `a` set to zero, and it lands on "before".
+
+Everything load-bearing is read from `diagnostics.json`: `|x_c*|` is recovered
+from `norms.rms_full` and `norms.rms_wo`, and the direction's component on the
+loud coordinate is `a = sqrt(top-1 share)`, which reproduces the independently
+stored `decomposition.a` in `channel_causal_e2.json` to five decimals. Only the
+tail's per-coordinate texture is a draw. On a model whose mask is empty at the
+selected cell — Llama at layer 11 has `n_channels = 0` and gain exactly 1.000 —
+all three curves coincide, which is the no-op result drawn rather than asserted.
 
 ---
 
